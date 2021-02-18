@@ -1,6 +1,6 @@
-# Pancake History
+# 🍞 Bread History 
 
-Check it out live: [https://pancakeswap.info/](https://pancakeswap.info/).
+Check it out live: [https://info.bread.exchange/](https://info.bread.exchange/).
 
 ### To Start Development
 
@@ -11,5 +11,5 @@ yarn
 
 ###### Running locally
 ```bash
-yarn start
+yarn test
 ```
