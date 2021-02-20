@@ -1,6 +1,6 @@
 # 🍞 Bread History 
 
-Check it out live: [https://info.bread.exchange/](https://info.bread.exchange/).
+Check it out live: [info](https://breadswap.info).
 
 ### To Start Development
 
